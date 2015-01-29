@@ -1,11 +1,33 @@
 
 ----
 ~~NOCACHE~~
-**[[am:obs|Open Bible Stories]]**
+**Door43**
 
-{{page>am:obs:stories}}
+  * [[am:home|Door43 (am)]]
 
+**Resources**
+
+  * [[am:obs|Open Bible Stories (am)]]
+
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-am|d43-am repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-am/archive/master.zip|d43-am.zip]]
+
+**Recent Changes**
+{{changes>ns = am}}
 
 **Latest Status**
 {{page>en:uwadmin:am:obs:status}}
 
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/am|Ethnologue data]]
+
+**Resources**
+
+  * [[am:obs|Open Bible Stories (am)]]
+
+**Latest OBS Status**
+{{page>en:uwadmin:am:obs:status}}
