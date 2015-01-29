@@ -5,4 +5,3 @@ Welcome to Open Bible Stories! Please feel free to translate this page and the s
 {{page>am:obs:stories}}
 
 {{page>en:obs:active}}
-
