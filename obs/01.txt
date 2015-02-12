@@ -1,8 +1,8 @@
-====== 1. **ፍጥረት**  ======
+====== 1. **ፍጥረት** ======
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>ከዚህ ቀጥሎ</font> የምንመለከተው<font inherit/inherit;;inherit;;inherit></font> እግዚአብሔር<font inherit/inherit;;inherit;;inherit></font> የሁሉም<font inherit/inherit;;inherit;;inherit>ነገር ጀማሪ</font> መሆኑን<font inherit/inherit;;inherit;;inherit></font> ነው፡፡<font inherit/inherit;;inherit;;inherit></font> ስለሆነም<font inherit/inherit;;inherit;;inherit></font> እግዚአብሔር<font inherit/inherit;;inherit;;inherit></font> ዓለምንንና<font inherit/inherit;;inherit;;inherit></font> በውስጧ<font inherit/inherit;;inherit;;inherit></font> የሚገኙትን<font inherit/inherit;;inherit;;inherit></font> ነገሮች<font inherit/inherit;;inherit;;inherit></font> በስድስት<font inherit/inherit;;inherit;;inherit>ቀናት</font> ፈጠረ፡፡<font inherit/inherit;;inherit;;inherit></font> እግዚአብሔር<font inherit/inherit;;inherit;;inherit></font> ምድርን<font inherit/inherit;;inherit;;inherit></font> ከፈጠረ<font inherit/inherit;;inherit;;inherit>በኋላ ምድር</font> ጨለማና<font inherit/inherit;;inherit;;inherit></font> ባዶ<font inherit/inherit;;inherit;;inherit></font> ነበረች፤<font inherit/inherit;;inherit;;inherit></font> በውስጧ<font inherit/inherit;;inherit;;inherit>ምንም ነገር</font> ገና<font inherit/inherit;;inherit;;inherit></font> አልተፈጠረም<font inherit/inherit;;inherit;;inherit></font> ነበር፡፡<font inherit/inherit;;inherit;;inherit>ይሁን እንጂ</font> የእግዚአብሔር<font inherit/inherit;;inherit;;inherit></font> መንፈስ<font inherit/inherit;;inherit;;inherit></font> በውሆች<font inherit/inherit;;inherit;;inherit></font> ላይ<font inherit/inherit;;inherit;;inherit>ሰፍፎ</font> ነበር፡፡
+<font inherit/inherit;;inherit;;inherit>ከዚህ ቀጥሎ</font>    የምንመለከተው እግዚአብሔር የሁሉም<font inherit/inherit;;inherit;;inherit>ነገር</font>    <font inherit/inherit;;inherit;;inherit>ጀማሪ</font>    መሆኑን ነው፡፡ ስለሆነም እግዚአብሔር ዓለምንንና በውስጧ የሚገኙትን ነገሮች በስድስት<font inherit/inherit;;inherit;;inherit>ቀናት</font>    ፈጠረ፡፡ እግዚአብሔር ምድርን ከፈጠረ<font inherit/inherit;;inherit;;inherit>በኋላ</font>    <font inherit/inherit;;inherit;;inherit>ምድር</font>    ጨለማና ባዶ ነበረች፤ በውስጧ<font inherit/inherit;;inherit;;inherit>ምንም</font>    <font inherit/inherit;;inherit;;inherit>ነገር</font>    ገና አልተፈጠረም ነበር፡፡<font inherit/inherit;;inherit;;inherit>ይሁን</font>    <font inherit/inherit;;inherit;;inherit>እንጂ</font>    የእግዚአብሔር መንፈስ በውሆች ላይ<font inherit/inherit;;inherit;;inherit>ሰፍፎ</font>    ነበር፡፡
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-02.jpg?direct&}}
 
@@ -10,75 +10,53 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-03.jpg?direct&}}
 
-On the second day of creation, God spoke and created the sky above the earth. He made the sky by separating the water above from the water below.
-
 በሁለተኛው ቀን እግዚአብሔር ከምድር በላይ ያለውን ጠፈር ፈጠረ፡፡ ስለሆነም እግዚአብሔር ውሃን ከጠፈር ለየ፡፡
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-04.jpg?direct&}}
-
-On the third day, God spoke and separated the water from the dry land. He called the dry land "earth," and he called the water "seas." God saw that what he had created was good.
 
 በሦስተኛው ቀን እግዚአብሔር ውሃውን ከደረቁ መሬት እንዲለይ አደረገ፡፡ እግዚአብሔርም ደረቁን መሬት ‹‹ምድር›› ውሃውንም ‹‹ባሕር›› ብሎ ጠራው፡፡ እግዚአብሔርም የፈጠረው ነገር መልካም እንደ ሆነ አየ፡፡
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-05.jpg?direct&}}
 
-Then God said, "Let the earth produce all kinds of trees and plants." And that is what happened. God saw that what he had created was good.
-
 <font inherit/inherit;;inherit;;inherit>ከዚያም እግዚአብሔር ምድር ሁሉንም ዓይነት ዛፎችንና ተክሎችን ታብቅል አለ፣ እንዲሁም ሆነ፡፡ እግዚአብሔርም የፈጠረው ነገር መልካም እንደ ሆነ አየ፡፡</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-06.jpg?direct&}}
-
-On the fourth day of creation, God spoke and made the sun, the moon, and the stars. God made them to give light to the earth and to mark day and night, seasons and years. God saw that what he had created was good.
 
 በአራተኛው የፍጥረት ቀን እግዚአብሔር ፀሐይን፣ ጨረቃንና ክዋክብትን ፈጠረ፡፡ እግዚአብሔር ቀንና ሌሊትንም ወቅቶችንና ዓመታትንም እንዲለዩ አደረገ፡፡ እግዚአብሔርም የፈጠረው ነገር መልካም እንደ ሆነ አየ፡፡
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-07.jpg?direct&}}
 
-On the fifth day, God spoke and made everything that swims in the water and all the birds. God saw that it was good, and he blessed them.
-
 በአምስተኛው ቀን እግዚአብሔር በውሃ ውስጥ የሚኖሩትንና ወፎችን ሁሉ ፈጠረ፡፡ እግዚአብሔር ያ መልካም እንደ ሆነ አየ የተፈጠሩትንም ባረካቸው፡፡
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-08.jpg?direct&}}
-
-On the sixth day of creation, God said, "Let there be all kinds of land animals!" And it happened just like God said. Some were farm animals, some crawled on the ground, and some were wild. And God saw that it was good.
 
 በስድስተኛውም ቀን፣ እግዚአብሔር ‹‹በምድር ላይ ሁሉም ዓይነት እንስሳት ይሁኑ›› አለ፡፡ እግዚአብሔር እንዳለውም ሆነ፡፡ አንዳንዶቹ የእርሻ ከብቶች፣ አንዳንዶቹ በምድር የሚሳቡ፣ አንዳንዶቹ የዱር እንስሳት ነበሩ፡፡ እግዚአብሔርም ያ መልካም እንደ ሆነ አየ፡፡
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-09.jpg?direct&}}
 
-Then God said, "Let us make human beings in our image to be like us. They will have authority over the earth and all the animals."
-
 <font inherit/inherit;;inherit;;inherit>እግዚአብሔር ‹‹ሰዎችን በመልካችን እንደ ምሳሌአችን እንፍጠር እነርሱም በምድር ሁሉና በእንስሳት ሁሉ ላይ ሥልጣን ይኑራቸው›› አለ፡፡</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-10.jpg?direct&}}
-
-So God took some dirt, formed it into a man, and breathed life into him. This man's name was Adam. God planted a garden where Adam could live, and put him there to care for it.
 
 ስለዚህ እግዚአብሔር ከምድር አፈር ወስዶ ሰው አድርጐ አበጀና ሕይወትን እስትንፋስ ሰጠው፡፡ የዚህም ሰው ስም አዳም ተባላ፡፡ እግዚአብሔር አዳም በሚኖርበት ስፍራ አትክልት ተከለና እንዲያለማው እዚያው አስቀመጠው፡፡
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-11.jpg?direct&}}
 
-In the middle of the garden, God planted two special trees—the tree of life and the tree of the knowledge of good and evil. God told Adam that he could eat from any tree in the garden except from the tree of the knowledge of good and evil. If he ate from this tree, he would die.
-
 <font inherit/inherit;;inherit;;inherit>በአትክልቱም መካከል እግዚአብሔር ሁለት የተለዩ ዛፎችን ተከለ፤ የሕይወት ዛፍና መልካምና ክፉን መለየት የሚያስችል የእውቀት ዛፎች ነበሩ፡፡ እግዚአብሔርም አዳምን በአትክልቱ ስፍራ ካለው መልካምንና ክፉን መለየት ከሚያስችለው የእውቀት ዛፍ በቀር በአትክልቱ ውስጥ ካለው ከየትኛውም ዛፍ መብላት እንደሚችል ተናገረው፡፡ ነገር ግን ክፉውንና መልካሙን መለየት ከሚያስችለው ዛፍ ቢበላ እንደሚሞት ተናግሮት ነበር፡፡</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-12.jpg?direct&}}
-
-Then God said, "It is not good for man to be alone." But none of the animals could be Adam's helper.
 
 እግዚአብሔር ሰው ብቻውን መሆኑ መልካም እንዳይደለ ተናገረው፡፡ ከእንስሳቱ አንዳቸውም የአዳም ረዳት ሊሆኑ አልቻሉም፡፡
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-13.jpg?direct&}}
 
-So God made Adam fall into a deep sleep. Then God took one of Adam's ribs and made it into a woman and brought her to him.
-
 እግዚአብሔርም በአዳም ላይ ከባድ እንቅልፍ ጣለበት አንቀላፍቶም ሳለ ከጐድኑ አንዲት አጥንት ወስዶ ሴት አድርጎ ሠራትና ወደ አዳም አመጣት፡፡
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-14.jpg?direct&}}<font inherit/inherit;;inherit;;inherit></font>
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-14.jpg?direct&}}
 
 <font inherit/inherit;;inherit;;inherit>አዳምም ባያት ጊዜ እንዲህ አለ፤ ‹‹ይህች እኔኑ ትመስላለች ከወንድ ተገኝታለችና ሴት ትባል፡፡ ስለዚህ ሰው አባቱንና እናቱን ይተዋል ከሚስቱም ጋር አንድ ይሆናል፡፡</font>
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-15.jpg?direct&}}<font inherit/inherit;;inherit;;inherit></font>
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-15.jpg?direct&}}
 
 እግዚአብሔር ወንድና ሴትን በራሱ መልክ ፈጠረ፡፡ እግዚአብሔርም ባረካቸው፤ አላቸውም ‹‹ብዙ ልጆችና የልጅ ልጆችም ይኑሩአችሁ ምድርንም ሙሉአት›› እግዚአብሔርም የሠራው ነገር በጣም ጥሩ እንደ ነበር አየ፡፡ በሁሉም ነገር ተደሰተ ይህ ሁሉ በስድስት ቀን ሆነ፡፡
 
@@ -86,4 +64,4 @@ So God made Adam fall into a deep sleep. Then God took one of Adam's ribs and ma
 
 ሰባተኛውም ቀን እግዚአብሔር የመፍጠር ሥራውን ፈጸመ፡፡ ስለዚህ እግዚአብሔር ሲሠራው ከነበረው ሥራ ሁሉ አረፈ፤ ሰባተኛውንም ቀን ባረከው ቀደሰውም፡፡ ምክንያቱም በዚህ ቀን ከሥራው ሁሉ አርፏልና፡፡ እግዚአብሔር ሰማይንና ምድርን በውስጧም የሚገኙትን በፈጠረ ጊዜ የተከናወኑት በዚህ ሁኔታ ነበር፡፡
 
-// story //**//የመጽሐፍ ቅዱስ ታሪክ፡- ከዘፍጥረት 1-2፡፡// **
+**//የመጽሐፍ ቅዱስ ታሪክ፡- ከዘፍጥረት 1-2፡፡// **
