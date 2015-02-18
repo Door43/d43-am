@@ -1,4 +1,4 @@
-====== 9. **እግዚአብሔር ሙሴን ጠራው**  ======
+====== 9. እግዚአብሔር ሙሴን ጠራው ======
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-01.jpg?direct&}}
 
@@ -54,7 +54,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-14.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>ሕዝቡ</font> ማን<font inherit/inherit;;inherit;;inherit>ላከህ ብለው</font> ቢጠይቁኝ<font inherit/inherit;;inherit;;inherit></font> ምን<font inherit/inherit;;inherit;;inherit></font> እላቸዋለሁ<font inherit/inherit;;inherit;;inherit></font> ሲል<font inherit/inherit;;inherit;;inherit></font> እግዚአብሔርን<font inherit/inherit;;inherit;;inherit></font> ጠየቀ፡፡<font inherit/inherit;;inherit;;inherit></font> እግዚአብሔርም<font inherit/inherit;;inherit;;inherit>ሙሴን</font> ‹‹እኔ<font inherit/inherit;;inherit;;inherit></font> ያለሁና<font inherit/inherit;;inherit;;inherit></font> የምኖር<font inherit/inherit;;inherit;;inherit></font> ነኝ<font inherit/inherit;;inherit;;inherit></font> ስለዚህ<font inherit/inherit;;inherit;;inherit>‹ያለና</font> የሚኖር›<font inherit/inherit;;inherit;;inherit></font> ልኮኛል<font inherit/inherit;;inherit;;inherit>ብለህ</font> ንገራቸው››<font inherit/inherit;;inherit;;inherit></font> አለው፡፡
+<font inherit/inherit;;inherit;;inherit>ሕዝቡ</font>    ማን<font inherit/inherit;;inherit;;inherit>ላከህ ብለው</font>    ቢጠይቁኝ ምን እላቸዋለሁ ሲል እግዚአብሔርን ጠየቀ፡፡ እግዚአብሔርም<font inherit/inherit;;inherit;;inherit>ሙሴን</font>    ‹‹እኔ ያለሁና የምኖር ነኝ ስለዚህ<font inherit/inherit;;inherit;;inherit>‹ያለና</font>    የሚኖር› ልኮኛል<font inherit/inherit;;inherit;;inherit>ብለህ</font>    ንገራቸው›› አለው፡፡
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-09-15.jpg?direct&}}
 
