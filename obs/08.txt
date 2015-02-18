@@ -1,4 +1,4 @@
-====== 8. **እግዚአብሔር ዮሴፍንና ቤተ ሰቡን አዳነ**  ======
+====== 8. እግዚአብሔር ዮሴፍንና ቤተ ሰቡን አዳነ ======
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-02.jpg?direct&}}
 
@@ -50,7 +50,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-13.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>የዮሴፍ</font> <font inherit/inherit;;inherit;;inherit></font> ወንድሞች<font inherit/inherit;;inherit;;inherit></font> ወደ<font inherit/inherit;;inherit;;inherit>አገራቸው ተመልሰው ዮሴፍ በሕይወት መኖሩን</font> ለአባታቸው<font inherit/inherit;;inherit;;inherit>ለያዕቆብ በነገሩት</font> ጊዜ<font inherit/inherit;;inherit;;inherit></font> ያዕቆብ<font inherit/inherit;;inherit;;inherit>በጣም ደስ</font> አለው፡፡
+<font inherit/inherit;;inherit;;inherit>የዮሴፍ</font>    ወንድሞች ወደ<font inherit/inherit;;inherit;;inherit>አገራቸው ተመልሰው ዮሴፍ በሕይወት መኖሩን</font>    ለአባታቸው<font inherit/inherit;;inherit;;inherit>ለያዕቆብ በነገሩት</font>    ጊዜ ያዕቆብ<font inherit/inherit;;inherit;;inherit>በጣም ደስ</font>    አለው፡፡
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-08-14.jpg?direct&}}
 
