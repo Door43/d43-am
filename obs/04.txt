@@ -1,8 +1,8 @@
-====== 4. **የእግዚአብሔር ቃል ኪዳን ከአብርሃም ጋር**  ======
+====== 4. የእግዚአብሔር ቃል ኪዳን ከአብርሃም ጋር ======
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-01.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>ከጥፋት</font> <font inherit/inherit;;inherit;;inherit>ውሃው ከብዙ</font> ዓመታት<font inherit/inherit;;inherit;;inherit>በኋላ</font> ሕዝቦች<font inherit/inherit;;inherit;;inherit></font> በዓለም<font inherit/inherit;;inherit;;inherit></font> ላይ<font inherit/inherit;;inherit;;inherit></font> እንደገና<font inherit/inherit;;inherit;;inherit></font> በዙ፡፡<font inherit/inherit;;inherit;;inherit>ሁሉም አንድ</font> አይነት<font inherit/inherit;;inherit;;inherit>ቋንቋ</font> ይናገሩ<font inherit/inherit;;inherit;;inherit></font> ነበር፡፡<font inherit/inherit;;inherit;;inherit></font> እግዚአብሔር<font inherit/inherit;;inherit;;inherit></font> እንዳዘዛቸው<font inherit/inherit;;inherit;;inherit></font> ምድርን<font inherit/inherit;;inherit;;inherit></font> ከመሙላት<font inherit/inherit;;inherit;;inherit>ይልቅ</font> በአንድነት<font inherit/inherit;;inherit;;inherit></font> ተሰብስበው<font inherit/inherit;;inherit;;inherit>ከተማ</font> ሠሩ፡፡
+<font inherit/inherit;;inherit;;inherit>ከጥፋት</font>    <font inherit/inherit;;inherit;;inherit>ውሃው ከብዙ</font>    ዓመታት<font inherit/inherit;;inherit;;inherit>በኋላ</font>    ሕዝቦች በዓለም ላይ እንደገና በዙ፡፡<font inherit/inherit;;inherit;;inherit>ሁሉም</font>    <font inherit/inherit;;inherit;;inherit>አንድ</font>    አይነት<font inherit/inherit;;inherit;;inherit>ቋንቋ</font>    ይናገሩ ነበር፡፡ እግዚአብሔር እንዳዘዛቸው ምድርን ከመሙላት<font inherit/inherit;;inherit;;inherit>ይልቅ</font>    በአንድነት ተሰብስበው<font inherit/inherit;;inherit;;inherit>ከተማ</font>    ሠሩ፡፡
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-02.jpg?direct&}}
 
@@ -34,6 +34,6 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-09.jpg?direct&}}
 
-እግዚአብሔርም<font inherit/inherit;;inherit;;inherit>ከአብራም</font> ጋር<font inherit/inherit;;inherit;;inherit></font> ቃል<font inherit/inherit;;inherit;;inherit>ኪዳን አደረገ፡፡</font> ቃል<font inherit/inherit;;inherit;;inherit>ኪዳን በሁለት ወገኖች መካከል የሚደረግ ስምምነት</font> ነው፡፡<font inherit/inherit;;inherit;;inherit></font> እግዚአብሔርም<font inherit/inherit;;inherit;;inherit></font> አብራምን<font inherit/inherit;;inherit;;inherit>‹‹ከገዛ አብራክህ</font> ልጅ<font inherit/inherit;;inherit;;inherit>እሰጥሃለሁ››</font> አለው፡፡<font inherit/inherit;;inherit;;inherit>‹‹ለዘሮችህም የከነዓንን ምድር እሰጣለሁ፡፡››</font> አብራም<font inherit/inherit;;inherit;;inherit>ግን በዚያን</font> ጊዜ<font inherit/inherit;;inherit;;inherit></font> ያለ<font inherit/inherit;;inherit;;inherit></font> ልጅ<font inherit/inherit;;inherit;;inherit></font> ነበር፡፡
+እግዚአብሔርም<font inherit/inherit;;inherit;;inherit>ከአብራም</font>    ጋር ቃል<font inherit/inherit;;inherit;;inherit>ኪዳን አደረገ፡፡</font>    ቃል<font inherit/inherit;;inherit;;inherit>ኪዳን በሁለት ወገኖች መካከል የሚደረግ ስምምነት</font>    ነው፡፡ እግዚአብሔርም አብራምን<font inherit/inherit;;inherit;;inherit>‹‹ከገዛ አብራክህ</font>    ልጅ<font inherit/inherit;;inherit;;inherit>እሰጥሃለሁ››</font>    አለው፡፡<font inherit/inherit;;inherit;;inherit>‹‹ለዘሮችህም የከነዓንን ምድር እሰጣለሁ፡፡››</font>    አብራም<font inherit/inherit;;inherit;;inherit>ግን በዚያን</font>    ጊዜ ያለ ልጅ ነበር፡፡
 
 **//የመጽሐፍ ቅዱስ ታሪክ፡- ከዘፍጥረት 11-15// **
