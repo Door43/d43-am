@@ -1,4 +1,4 @@
-====== 7. **እግዚአብሔር ያዕቆብን ባረከ**  ======
+====== 7. እግዚአብሔር ያዕቆብን ባረከ ======
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-01.jpg?direct&}}
 
@@ -10,7 +10,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-03.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>ይስሐቅ</font> <font inherit/inherit;;inherit;;inherit></font> በረከቱን<font inherit/inherit;;inherit;;inherit></font> ለኤሳው<font inherit/inherit;;inherit;;inherit></font> ሊሰጠው<font inherit/inherit;;inherit;;inherit></font> ፈለገ፡፡<font inherit/inherit;;inherit;;inherit>ነገር</font> ግን<font inherit/inherit;;inherit;;inherit>ይህን</font> ከማድረጉ<font inherit/inherit;;inherit;;inherit>በፊት</font> ርብቃና<font inherit/inherit;;inherit;;inherit></font> ያዕቆብ<font inherit/inherit;;inherit;;inherit></font> ይስሐቅን<font inherit/inherit;;inherit;;inherit></font> አታለሉት፡፡<font inherit/inherit;;inherit;;inherit></font> ያዕቆብ<font inherit/inherit;;inherit;;inherit></font> ኤሳውን<font inherit/inherit;;inherit;;inherit>መስሎ</font> ወደ<font inherit/inherit;;inherit;;inherit></font> ይስሐቅ<font inherit/inherit;;inherit;;inherit></font> ቀረበ፡፡<font inherit/inherit;;inherit;;inherit></font> ይስሐቅ<font inherit/inherit;;inherit;;inherit></font> አርጅቶ<font inherit/inherit;;inherit;;inherit>ነበር</font> ማየትም<font inherit/inherit;;inherit;;inherit></font> አይችልም<font inherit/inherit;;inherit;;inherit></font> ነበር፡፡<font inherit/inherit;;inherit;;inherit></font> ስለዚህም<font inherit/inherit;;inherit;;inherit></font> ያዕቆብ<font inherit/inherit;;inherit;;inherit></font> የኤሳውን<font inherit/inherit;;inherit;;inherit></font> ልብሶች<font inherit/inherit;;inherit;;inherit>ለብሶ</font> የፍየል<font inherit/inherit;;inherit;;inherit>ለምድ</font> በአንገቱና<font inherit/inherit;;inherit;;inherit>በእጁ</font> አድርጎ<font inherit/inherit;;inherit;;inherit></font> ወደ<font inherit/inherit;;inherit;;inherit></font> ይስሐቅ<font inherit/inherit;;inherit;;inherit></font> በመቅረብ<font inherit/inherit;;inherit;;inherit></font> ይስሐቅን<font inherit/inherit;;inherit;;inherit></font> አታለለው፡፡
+<font inherit/inherit;;inherit;;inherit>ይስሐቅ</font>    በረከቱን ለኤሳው ሊሰጠው ፈለገ፡፡<font inherit/inherit;;inherit;;inherit>ነገር</font>    ግን<font inherit/inherit;;inherit;;inherit>ይህን</font>    ከማድረጉ<font inherit/inherit;;inherit;;inherit>በፊት</font>    ርብቃና ያዕቆብ ይስሐቅን አታለሉት፡፡ ያዕቆብ ኤሳውን<font inherit/inherit;;inherit;;inherit>መስሎ</font>    ወደ ይስሐቅ ቀረበ፡፡ ይስሐቅ አርጅቶ<font inherit/inherit;;inherit;;inherit>ነበር</font>    ማየትም አይችልም ነበር፡፡ ስለዚህም ያዕቆብ የኤሳውን ልብሶች<font inherit/inherit;;inherit;;inherit>ለብሶ</font>    የፍየል<font inherit/inherit;;inherit;;inherit>ለምድ</font>    በአንገቱና<font inherit/inherit;;inherit;;inherit>በእጁ</font>    አድርጎ ወደ ይስሐቅ በመቅረብ ይስሐቅን አታለለው፡፡
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-07-04.jpg?direct&}}
 
