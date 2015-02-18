@@ -1,8 +1,8 @@
-====== 20. **ምርኮና ****ከምርኮ መመለስ**  ======
+====== 20. ምርኮና ከምርኮ መመለስ ======
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-01.jpg?direct&}}
 
-የእስራኤል<font inherit/inherit;;inherit;;inherit></font> መንግሥትና<font inherit/inherit;;inherit;;inherit></font> የይሁዳ<font inherit/inherit;;inherit;;inherit></font> መንግሥት<font inherit/inherit;;inherit;;inherit></font> ሁለቱም<font inherit/inherit;;inherit;;inherit></font> በእግዚአብሔር<font inherit/inherit;;inherit;;inherit></font> ላይ<font inherit/inherit;;inherit;;inherit></font> ኃጢአት<font inherit/inherit;;inherit;;inherit></font> ሠሩ፡፡<font inherit/inherit;;inherit;;inherit></font> እግዚአብሔር<font inherit/inherit;;inherit;;inherit></font> ከእነርሱ<font inherit/inherit;;inherit;;inherit></font> ጋር<font inherit/inherit;;inherit;;inherit>በሲና ተራራ</font> ያደረገውን<font inherit/inherit;;inherit;;inherit></font> ቃል<font inherit/inherit;;inherit;;inherit>ኪዳን</font> አፈረሱ፡፡<font inherit/inherit;;inherit;;inherit></font> እግዚአብሔር<font inherit/inherit;;inherit;;inherit>ንስሐ</font> እንዲገቡና<font inherit/inherit;;inherit;;inherit></font> እንደገና<font inherit/inherit;;inherit;;inherit></font> እንዲያመልኩት<font inherit/inherit;;inherit;;inherit></font> ሊያስጠነቅቃቸው<font inherit/inherit;;inherit;;inherit></font> ነቢያቱን<font inherit/inherit;;inherit;;inherit>ላከ፣</font> እነርሱ<font inherit/inherit;;inherit;;inherit></font> ግን<font inherit/inherit;;inherit;;inherit></font> አንታዘዝም<font inherit/inherit;;inherit;;inherit></font> አሉ፡፡
+የእስራኤል መንግሥትና የይሁዳ መንግሥት ሁለቱም በእግዚአብሔር ላይ ኃጢአት ሠሩ፡፡ እግዚአብሔር ከእነርሱ ጋር<font inherit/inherit;;inherit;;inherit>በሲና ተራራ</font>    ያደረገውን ቃል<font inherit/inherit;;inherit;;inherit>ኪዳን</font>    አፈረሱ፡፡ እግዚአብሔር<font inherit/inherit;;inherit;;inherit>ንስሐ</font>    እንዲገቡና እንደገና እንዲያመልኩት ሊያስጠነቅቃቸው ነቢያቱን<font inherit/inherit;;inherit;;inherit>ላከ፣</font>    እነርሱ ግን አንታዘዝም አሉ፡፡
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-02.jpg?direct&}}
 
@@ -18,7 +18,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-05.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>የእስራኤል መንግሥት ሕዝብ እግዚአብሔርን ስላላመኑበትና ስላልታዘዙት እንዴት እንደ ቀጣቸው በይሁዳ መንግሥት የነበሩት ሕዝብ ዐዩ፡፡ እንደዚያም ሆኖ ግን የይሁዳ መንግሥት ሕዝብ የከነዓናውያንን አማልክት ጨምሮ ጣዖታትን አመለኩ፡፡ እግዚአብሔርም እንዲያስጠነቅቁአቸው  ነቢያትን ላከ፣ እነርሱ ግን አንሰማም አሉ፡፡</font>
+<font inherit/inherit;;inherit;;inherit>የእስራኤል መንግሥት ሕዝብ እግዚአብሔርን ስላላመኑበትና ስላልታዘዙት እንዴት እንደ ቀጣቸው በይሁዳ መንግሥት የነበሩት ሕዝብ ዐዩ፡፡ እንደዚያም ሆኖ ግን የይሁዳ መንግሥት ሕዝብ የከነዓናውያንን አማልክት ጨምሮ ጣዖታትን አመለኩ፡፡ እግዚአብሔርም እንዲያስጠነቅቁአቸው ነቢያትን ላከ፣ እነርሱ ግን አንሰማም አሉ፡፡</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-20-06.jpg?direct&}}
 
