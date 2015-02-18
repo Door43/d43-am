@@ -1,4 +1,4 @@
-====== 3. **የጥፋት ውሃ**  ======
+====== 3. የጥፋት ውሃ ======
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-01.jpg?direct&}}
 
@@ -6,7 +6,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-02.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>ኖኅ ግን በእግዚአብሔር ዘንድ ሞገስን አገኘ፡፡ ኖኅ በዘመኑ ከነበሩት ሰዎች</font> ሁሉ<font inherit/inherit;;inherit;;inherit>ይልቅ ጻድቅና ከበደል የራቀ ሰው</font> ነበር፡፡<font inherit/inherit;;inherit;;inherit>እግዚአብሔርም ሊልክ ስላቀደው</font> የጥፋት<font inherit/inherit;;inherit;;inherit></font> ውሃ<font inherit/inherit;;inherit;;inherit>ለኖኅ ነገረው፡፡ ኖኅ ግዙፍ መርከብ እንዲሠራ</font> እግዚአብሔር<font inherit/inherit;;inherit;;inherit>ነገረው፡፡</font>
+<font inherit/inherit;;inherit;;inherit>ኖኅ ግን በእግዚአብሔር ዘንድ ሞገስን አገኘ፡፡ ኖኅ በዘመኑ ከነበሩት ሰዎች</font>    ሁሉ<font inherit/inherit;;inherit;;inherit>ይልቅ</font>    <font inherit/inherit;;inherit;;inherit>ጻድቅና ከበደል የራቀ ሰው</font>    ነበር፡፡<font inherit/inherit;;inherit;;inherit>እግዚአብሔርም</font>    <font inherit/inherit;;inherit;;inherit>ሊልክ ስላቀደው</font>    የጥፋት ውሃ<font inherit/inherit;;inherit;;inherit>ለኖኅ ነገረው፡፡ ኖኅ ግዙፍ መርከብ እንዲሠራ</font>    እግዚአብሔር<font inherit/inherit;;inherit;;inherit>ነገረው፡፡</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-03-03.jpg?direct&}}
 
