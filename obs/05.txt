@@ -1,4 +1,4 @@
-====== 5. **የተስፋው ልጅ**  ======
+====== 5. የተስፋው ልጅ ======
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-01.jpg?direct&}}
 
@@ -10,7 +10,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-03.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>እግዚአብሔርም</font> አብራምን<font inherit/inherit;;inherit;;inherit>‹‹እኔ ኤልሻዳይ አምላክ ነኝ ካንተ ጋር ኪዳን እገባለሁ››</font> አለው፡፡<font inherit/inherit;;inherit;;inherit></font> አብራምም<font inherit/inherit;;inherit;;inherit>በግምባሩ መሬት ላይ ተደፋ እግዚአብሔርም</font> አብራምን<font inherit/inherit;;inherit;;inherit>አለው ‹‹አንተ የብዙ ሕዝቦች አባት ትሆናለህ፡፡ የከነዓንን ምድር ለአንተና ለዘሮችህ ርስት አድርጌ እሰጣችኋለሁ እኔም ለዘላለም አምላካቸው እሆናለሁ አንተም በቤተ ሰብህ የሚገኘውን ወንድ ሁሉ ግረዘው››</font> አለው፡፡
+<font inherit/inherit;;inherit;;inherit>እግዚአብሔርም</font>    አብራምን<font inherit/inherit;;inherit;;inherit>‹‹እኔ</font>    <font inherit/inherit;;inherit;;inherit>ኤልሻዳይ አምላክ ነኝ ካንተ ጋር ኪዳን እገባለሁ››</font>    አለው፡፡ አብራምም<font inherit/inherit;;inherit;;inherit>በግምባሩ</font>    <font inherit/inherit;;inherit;;inherit>መሬት ላይ ተደፋ እግዚአብሔርም</font>    አብራምን<font inherit/inherit;;inherit;;inherit>አለው</font>    <font inherit/inherit;;inherit;;inherit>‹‹አንተ የብዙ ሕዝቦች አባት ትሆናለህ፡፡ የከነዓንን ምድር ለአንተና ለዘሮችህ ርስት አድርጌ እሰጣችኋለሁ እኔም ለዘላለም አምላካቸው እሆናለሁ አንተም በቤተ ሰብህ የሚገኘውን ወንድ ሁሉ ግረዘው››</font>    አለው፡፡
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-05-04.jpg?direct&}}
 
