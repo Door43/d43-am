@@ -1,31 +1,21 @@
-//Translation for the unfoldingWord mobile app interface // 
+//በሞባይል ቴሌፎን ጥቅም ላይ የሚውል የተገለጠው ቃል ትርጉም //
 
+ቋንቋ ምረጥ: ቋንቋ ምረጥ
 
-Select a language: Select a Language
+ምዕራፎች: ምዕራፎች
 
+ቋንቋዎች: ቋንቋዎች
 
-Chapters: Chapters
+የሚቀጥለው ምዕራፍ: <font 14px line-height: 19px;/inherit;;inherit;;inherit>የሚቀጥለው</font> <font 14px line-height: 19px;/inherit;;inherit;;inherit></font> <font 14px line-height: 19px;/inherit;;inherit;;inherit>ምዕራፍ</font>
 
+ይሁን: <font 14px line-height: 19px;/inherit;;inherit;;inherit>ይሁን</font>
 
-Languages: Languages
+ይሰረዝ: <font 14px line-height: 19px;/inherit;;inherit;;inherit>ይሰረዝ</font>
 
+በአካባቢህ ይቀመጥ: <font 14px line-height: 19px;/inherit;;inherit;;inherit>በአካባቢህ</font> <font 14px line-height: 19px;/inherit;;inherit;;inherit></font> <font 14px line-height: 19px;/inherit;;inherit;;inherit>ይቀመጥ</font>
 
-Next chapter: Next Chapter
+ይህን ስትሪንግ አስቀምጠው: ኢንተርኔት ሳይኖር ለመጠቀም ይህን ቋንቋ በአካባቢህ አስቀምጠው
 
+ከአካባቢህ አስወግደው: ከአካባቢህ<font 14px line-height: 19px;/inherit;;inherit;;inherit>አስወግደው</font>
 
-OK: OK
-
-
-Cancel: Cancel
-
-
-Save locally: Save Locally
-
-
-Save this string: Save this language locally for offline use.
-
-
-Remove locally: Remove Locally
-
-
-Remove this string: Remove this language from offline storage. You will need an internet connection to view it in the future.
+ይህን ስትሪንግ አስወግድ: ኢንተርኔት ሳይኖር ከምትጠቀምበት ማስቀመጫ ይህን ቋንቋ አስወግደው። ለወደፊቱ ልትጠቀምበት ከፈለግህ የኢንተርኔት መስመር ሊኖርህ ይገባል።
