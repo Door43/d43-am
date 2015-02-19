@@ -1,30 +1,31 @@
-**unfoldingWord | OPEN BIBLE STORIES**
+የተገለጠ ቃል/ግልጽ የመጽሐፍ ቅዱስ ታሪኮች
 
-**an unrestricted visual mini-Bible in any language**
+ያልተገደበ፣ ሥዕላዊ አነስተኛ መጽሐፍ ቅዱስ በማንኛውም ቋንቋ
 
-http://openbiblestories.com
+[[http://openbiblestories.com|http://openbiblestories.com]]
 
-Open Bible Stories, v. 3.1
+ግልጽ የመጽሐፍ ቅዱስ ታሪኮች፣ አማርኛ፣ እትም
 
-Created by Distant Shores Media (http://distantshores.org) and the Door43 world missions community (http://door43.org).
+በዲስታንት ሾርስ ሚዲያ የተዘጋጀ  ([[http://distantshores.org|http://distantshores.org]]) እና ዘ ዶር43 ወርልድ ሚሽንስ ኮምዩኒቲ ([[http://door43.org|http://door43.org]]).
 
+**ፈቃድ፡- **
 
-**License:**
+ይህ ሥራ ከ a Creative Commons Atribution ShareAlike 4.0 International License ሥር እንዲገኝ ተደርጎአል ([[http://creativecommons.org/licenses/by-sa/4.0/|http://creativecommons.org/licenses/by-sa/4.0/]]).
 
-This work is made available under a Creative Commons Attribution-ShareAlike 4.0 International License (http://creativecommons.org/licenses/by-sa/4.0/).
+የሚከተሉትን ለማድረግ ነጻነት አለህ፡-
 
-You are free:
+*  <font inherit/inherit;;inherit;;inherit>** ለሌሎች ለማካፍል ** - መጽሐፉን አባዝተህ</font> በማንኛውም<font inherit/inherit;;inherit;;inherit>መገናኛ ዘዴ ወይም ይዞታና አቀራረብ እንደገና ማሠራጨት፡፡</font>
 
-* **Share** — copy and redistribute the material in any medium or format
-* **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
+*  <font inherit/inherit;;inherit;;inherit>** ለሁኔታ እንዲስማማ አድርገህ ማቅረብ ** - መጽሐፉን ለማንኛውም ዓላማ፣ ለንግድ እንኳ እንደ ገና መቀየር፣ መቀየር፣ ማዳበር፡፡</font>
 
-Under the following conditions:
+በሚከተሉት ቅድመ ሁኔታዎች መሠረት፡-
 
-* **Attribution** — You must attribute the work as follows: "Original work available at http://openbiblestories.com." Attribution statements in derivative works should not in any way suggest that we endorse you or your use of this work.
-* **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+*  <font inherit/inherit;;inherit;;inherit>የሥራው ባለቤትነት - የሥራውን ባለቤት እንደሚከተለው ግለጽ፡- ‹‹የመጀመሪያው</font> ሥራ<font inherit/inherit;;inherit;;inherit>በ http://openbiblestories.com ይገኛል፡፡ ሥራው የተገኘባቸው የሥራው ባለቤትነት መግለጫዎች</font> በማንኛውም<font inherit/inherit;;inherit;;inherit>መንገድ እኛ አንተን የደገፍንህ መሆናችንን ወይም የዚህን</font> መጽሐፍ<font inherit/inherit;;inherit;;inherit>አጠቃቀምህን የሚመለከት ዐሳብ የሚገልጽ መሆን የለበትም፡፡</font>
 
-Use of trademarks: **unfoldingWord** is a trademark of Distant Shores Media and may not be included on any derivative works created from this content.  Unaltered content from http://openbiblestories.com must include the **unfoldingWord** logo when distributed to others. But if you alter the content in any way, you must remove the **unfoldingWord** logo before distributing your work.
+[[http://openbiblestories.com.|*]]<font inherit/inherit;;inherit;;inherit>ለሌሎች እኩል አካፍል - መጽሐፉን እንደገና ብትቀላቅለው፣ ብትቀይረው፣ ወይም ብታዳብረው፣ በመጀመሪያው ፈቃድ ሥር እንዳለው ጽሑፍህን ማሠራጨት አለብህ፡፡</font>
 
-Attribution of artwork: All images used in these stories are © Sweet Publishing (www.sweetpublishing.com) and are made available under a Creative Commons Attribution-Share Alike License (http://creativecommons.org/licenses/by-sa/3.0).
+የንግድ ምልክቶች አጠቃቀም፡- የተገለጠ ቃል የዲስታንት ሾርስ ሚዲያ የንግድ ምልክት ነውና ከዚህ በፊት በተዘጋጁ በማናቸውም የሥራዎቹ መገኛዎች ላይ ላይካተቱ ይችላሉ፡፡ ከ [[http://openbiblestories.com|http://openbiblestories.com]] የሆነው ያልተለወጠው ይዘት ለሌች በሚሠራጭበት ጊዜ የተገለጠው ቃል ዓርማን ማካተት አለበት፡፡ ነገር ግን በማንኛውም መንገድ ይዘቱን ብትለውጥ ሥራህን ከማሠራጨትህ በፊት የተገለጠውን ቃል ዓርማ ማስወገድ አለብህ፡፡
 
-To our brothers and sisters in Christ all over the world—the global church. It is our prayer that God would use this visual overview of His Word to bless, strengthen, and encourage you.
+የሥዕል ሥራ ባለቤትነት፡- በእነዚህ ታሪኮች ጥቅም ላይ የዋሉ ሥሎች ሁሉ የ © Sweet publishing ([[http://www.sweetpublishing.com|www.sweetpublishing.com]]) ሲሆኑ በክርኤቲቭ ኮመንስ አትሪቡሽን ሼር አላይክ ላይሰንስ ሥር እንዲገኙ ተደርገዋል ([[http://creativecommons.org/licenses/by-sa/3.0|http://creativecommons.org/licenses/by-sa/3.0]]).
+
+በመላው ዓለም ላሉ በክርስቶስ ወንድሞቻችንና እኅቶቻቸን - ዓለም አቀፋዊቱ ቤተ ክርስቲያን፡፡ እግዚአብሔር ይህን የቃሉን ሥዕላዊ አጭር መግለጫ እናንተን ለመባረክ፣ ለማጠንከርና ለማበርታት ይጠቀምበት ዘንድ ጸሎታችን ነው፡፡
