@@ -30,7 +30,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-08.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>ኢየሱስ፣ ‹‹በእኔ ብታምኚስ የእግዚአብሔርን ክብር እንድተዪ አልነገርኩሽምን?›› አላት፡፡ ስለዚህ ድንጋዩን አንከባለሉት፡፡</font>
+<font inherit/inherit;;inherit;;inherit>ኢየሱስ፣ ‹‹በእኔ ብታምኚስ የእግዚአብሔርን ክብር እንድታዪ አልነገርኩሽምን?›› አላት፡፡ ስለዚህ ድንጋዩን አንከባለሉት፡፡</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-37-09.jpg?direct&}}
 
