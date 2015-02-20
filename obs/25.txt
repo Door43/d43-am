@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-01.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>ኢየሱስ</font>    ከተጠመቀ<font inherit/inherit;;inherit;;inherit>በኋላ</font>    ወዲያውኑ፣ መንፈስ<font inherit/inherit;;inherit;;inherit>ቅዱስ</font>    ወደ<font inherit/inherit;;inherit;;inherit>ምድረ</font>    በዳ ወሰደው፣ እዚያም<font inherit/inherit;;inherit;;inherit>አርባ ቀንና አርባ ሌሊት</font>    ጾመ፡፡ ከዚያም ሰይጣን ወደ ኢየሱስ<font inherit/inherit;;inherit;;inherit>መጣና</font>    ኃጢአት እንዲሠራ ኢየሱስን ፈተነው፡፡{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-02.jpg?nolink&}}
+<font inherit/inherit;;inherit;;inherit>ኢየሱስ</font>    ከተጠመቀ<font inherit/inherit;;inherit;;inherit>በኋላ</font>    ወዲያውኑ፣ መንፈስ<font inherit/inherit;;inherit;;inherit>ቅዱስ</font>    ወደ<font inherit/inherit;;inherit;;inherit>ምድረ</font>    በዳ ወሰደው፣ እዚያም<font inherit/inherit;;inherit;;inherit>አርባ</font>    <font inherit/inherit;;inherit;;inherit>ቀንና አርባ ሌሊት</font>    ጾመ፡፡ ከዚያም ሰይጣን ወደ ኢየሱስ<font inherit/inherit;;inherit;;inherit>መጣና</font>    ኃጢአት እንዲሠራ ኢየሱስን ፈተነው፡፡{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-02.jpg?nolink&}}
 
 <font inherit/inherit;;inherit;;inherit>‹‹የእግዚአብሔር ልጅስ ከሆንክ፣ መብላት ትችል ዘንድ እነዚህን ድንጋዮች</font>    ወደ<font inherit/inherit;;inherit;;inherit>እንጀራ</font>    <font inherit/inherit;;inherit;;inherit>ለውጥ›› በማለት</font>    ሰይጣን ኢየሱስን ፈተነው፡፡
 
@@ -28,6 +28,6 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-25-08.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>ኢየሱስ</font>    ለሰይጣን<font inherit/inherit;;inherit;;inherit>ፈተና</font>    <font inherit/inherit;;inherit;;inherit>አልተሸነፈም፣ ስለዚህ</font>    ሰይጣን<font inherit/inherit;;inherit;;inherit>ተወው፡፡</font>    <font inherit/inherit;;inherit;;inherit>ከዚያ በኋላ መላእክት መጥተው</font>    ኢየሱስን<font inherit/inherit;;inherit;;inherit>አገለገሉት፡፡</font>
+<font inherit/inherit;;inherit;;inherit>ኢየሱስ</font>    ለሰይጣን<font inherit/inherit;;inherit;;inherit>ፈተና</font>    <font inherit/inherit;;inherit;;inherit>አልተሸነፈም፣ ስለዚህ</font>    ሰይጣን <font inherit/inherit;;inherit;;inherit>ተወው፡፡</font>    <font inherit/inherit;;inherit;;inherit>ከዚያ በኋላ መላእክት መጥተው</font>    ኢየሱስን <font inherit/inherit;;inherit;;inherit>አገለገሉት፡፡</font>
 
 **//የመጽሐፍ ቅዱስ ታሪክ፡- ከማቴዎስ 4፡1-11፤ ማርቆስ 1፡12-13፤ ሉቃስ 4፡1-13፡፡// **
