@@ -14,7 +14,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-04.jpg?direct&}}
 
-ከመቶ ዓመታት በኋላ እግዚአብሔር አብራም የተባለውን ሰው ተናገረው፡፡ እግዚአብሔርም እንዲህ አለው አገርህንና ቤተ ሰብህን ትተህ እኔ ወደማሳይህ ምድር ሂድ፡፡ በዚያም እባርክሃለሁ፣ ታላቅ ሕዝብም አደርግሃለሁ ስምህንም ታላቅ አደርገዋለሁ፣ የሚባርኩህን እባርክሃሁ፣ የሚረግሙህንም እረግማለሁ ባንተ ምክንያትም የምድር ሰዎች ሁሉ ይባረካሉ፡፡
+ከመቶ ዓመታት በኋላ እግዚአብሔር አብራም የተባለውን ሰው ተናገረው፡፡ እግዚአብሔርም እንዲህ አለው አገርህንና ቤተ ሰብህን ትተህ እኔ ወደማሳይህ ምድር ሂድ፡፡ በዚያም እባርክሃለሁ፣ ታላቅ ሕዝብም አደርግሃለሁ ስምህንም ታላቅ አደርገዋለሁ፣ የሚባርኩህን እባርካለሁ፣ የሚረግሙህንም እረግማለሁ ባንተ ምክንያትም የምድር ሰዎች ሁሉ ይባረካሉ፡፡
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-05.jpg?direct&}}
 
@@ -34,6 +34,6 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-04-09.jpg?direct&}}
 
-እግዚአብሔርም<font inherit/inherit;;inherit;;inherit>ከአብራም</font>    ጋር ቃል<font inherit/inherit;;inherit;;inherit>ኪዳን አደረገ፡፡</font>    ቃል<font inherit/inherit;;inherit;;inherit>ኪዳን በሁለት ወገኖች መካከል የሚደረግ ስምምነት</font>    ነው፡፡ እግዚአብሔርም አብራምን<font inherit/inherit;;inherit;;inherit>‹‹ከገዛ አብራክህ</font>    ልጅ<font inherit/inherit;;inherit;;inherit>እሰጥሃለሁ››</font>    አለው፡፡<font inherit/inherit;;inherit;;inherit>‹‹ለዘሮችህም የከነዓንን ምድር እሰጣለሁ፡፡››</font>    አብራም<font inherit/inherit;;inherit;;inherit>ግን በዚያን</font>    ጊዜ ያለ ልጅ ነበር፡፡
+እግዚአብሔርም<font inherit/inherit;;inherit;;inherit>ከአብራም</font>    ጋር ቃል<font inherit/inherit;;inherit;;inherit>ኪዳን</font>    <font inherit/inherit;;inherit;;inherit>አደረገ፡፡</font>    ቃል<font inherit/inherit;;inherit;;inherit>ኪዳን</font>    <font inherit/inherit;;inherit;;inherit>በሁለት ወገኖች መካከል የሚደረግ ስምምነት</font>    ነው፡፡ እግዚአብሔርም አብራምን<font inherit/inherit;;inherit;;inherit>‹‹ከገዛ</font>    <font inherit/inherit;;inherit;;inherit>አብራክህ</font>    ልጅ<font inherit/inherit;;inherit;;inherit>እሰጥሃለሁ››</font>    አለው፡፡<font inherit/inherit;;inherit;;inherit>‹‹ለዘሮችህም</font>    <font inherit/inherit;;inherit;;inherit>የከነዓንን ምድር እሰጣለሁ፡፡››</font>    አብራም<font inherit/inherit;;inherit;;inherit>ግን</font>    <font inherit/inherit;;inherit;;inherit>በዚያን</font>    ጊዜ ያለ ልጅ ነበር፡፡
 
 **//የመጽሐፍ ቅዱስ ታሪክ፡- ከዘፍጥረት 11-15// **
