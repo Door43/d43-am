@@ -18,15 +18,15 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-05.jpg?direct&}}
 
-ሴቲቱ የዛፉ ፍሬ ለመብል መልካምና ለዓይን የሚያስደስትና ጥበብንም ለማግኘት የሚያጓጓ እንደ ሆነ ባየች ጊዜ ከፍሬው ወስዳ በላች፡፡ ከእርሷም ጋር ለነበረው ለባሏም ሰጠችው፡፡ እርሱም ከዛፉ ፍሬ በላ፡፡
+ሴቲቱ የዛፉ ፍሬ ለመብል መልካም፣ ለዓይን የሚያስደስትና ጥበብንም ለማግኘት የሚያጓጓ እንደ ሆነ ባየች ጊዜ ከፍሬው ወስዳ በላች፡፡ ከእርሷም ጋር ለነበረው ለባሏም ሰጠችው፡፡ እርሱም ከዛፉ ፍሬ በላ፡፡
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-06.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>ወዲያውም የሁለቱም ዐይኖች ተከፈቱ፡፡</font>    ራቁታቸውን<font inherit/inherit;;inherit;;inherit>መሆናቸውንም ተገነዘቡ፤ ቅጠልም እንደ ልብስ ሰፍተው ገላቸውን ለመሸፈን ሞከሩ፡፡</font>
+<font inherit/inherit;;inherit;;inherit>ወዲያውም የሁለቱም ዐይኖች ተከፈቱ፡፡</font>    ራቁታቸውን <font inherit/inherit;;inherit;;inherit>መሆናቸውንም ተገነዘቡ፤ ቅጠልም እንደ ልብስ ሰፍተው ገላቸውን ለመሸፈን ሞከሩ፡፡</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-07.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>ሰውዬውና ሚስቱም የእግዚአብሔር ድምፅ</font>    በአትክልቱ<font inherit/inherit;;inherit;;inherit>መካከል ሲመላለስ ሰምተው ሁሉም</font>    ከእግዚአብሔር<font inherit/inherit;;inherit;;inherit>ፊት ተሸሸጉ፡፡ እግዚአብሔርም አዳምን ጠርቶ ‹‹የት ነህ?›› አለው፡፡ አዳምም ‹‹በአትክልቱ ስፍራ ስትመላለስ ሰማሁ ራቁቴን ስለ ሆንኩ ፈራሁ ተሸሸግሁም›› ብሎ መለሰ፡፡</font>
+<font inherit/inherit;;inherit;;inherit>ሰውዬውና ሚስቱም የእግዚአብሔር ድምፅ</font>    በአትክልቱ <font inherit/inherit;;inherit;;inherit>መካከል ሲመላለስ ሰምተው ሁሉም</font>    ከእግዚአብሔር <font inherit/inherit;;inherit;;inherit>ፊት ተሸሸጉ፡፡ እግዚአብሔርም አዳምን ጠርቶ ‹‹የት ነህ?›› አለው፡፡ አዳምም ‹‹በአትክልቱ ስፍራ ስትመላለስ ሰማሁ ራቁቴን ስለ ሆንኩ ፈራሁ ተሸሸግሁም›› ብሎ መለሰ፡፡</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-08.jpg?direct&}}
 
@@ -34,7 +34,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-09.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>እግዚአብሔር</font>    <font inherit/inherit;;inherit;;inherit>እባቡን እንዲህ አለው፤ ‹‹የተረገምህ ነህ በደረትህ ትሳባለህ አፈርም ትበላለህ አንተና ሴቲቱ ጥለኞች ትሆናላችሁ የአንተ ልጆችና የእርሷም ልጆች እንዲሁ ጥለኞች ይሆናሉ የሴቲቱ ዘር ራስህን ይቀጠቅጣል አንተም ተረከዙን ታቆስላለህ፡፡››</font>
+<font inherit/inherit;;inherit;;inherit>እግዚአብሔር</font>    <font inherit/inherit;;inherit;;inherit>እባቡን እንዲህ አለው፤ ‹‹የተረገምህ ነህ፣ በደረትህ ትሳባለህ አፈርም ትበላለህ አንተና ሴቲቱ ጥለኞች ትሆናላችሁ የአንተ ልጆችና የእርሷም ልጆች እንዲሁ ጥለኞች ይሆናሉ የሴቲቱ ዘር ራስህን ይቀጠቅጣል አንተም ተረከዙን ታቆስላለህ፡፡››</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-02-10.jpg?direct&}}
 
