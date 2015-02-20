@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-01.jpg?direct&}}
 
-ገና ከመጀመሪያው፣ እግዚአብሔር መሲሑን<font inherit/inherit;;inherit;;inherit>ለመላክ ዐቀደ፡፡ የመጀመሪያው የመሲሑ ተስፋ ወደ አዳምና ሔዋን መጣ፡፡</font>    እግዚአብሔር<font inherit/inherit;;inherit;;inherit>የእባቡን ራስ የሚቀጠቅጥ የሔዋን ዘር እንደሚወለድ ተስፋ ሰጠ፡፡ ሔዋንን ያታለለው እባብ ሰይጣን ነበር፡፡ ተስፋው መሲሑ ሰይጣንን ፍጹም ያሸንፈዋል ማለት ነው፡፡</font>
+ገና ከመጀመሪያው፣ እግዚአብሔር መሲሑን<font inherit/inherit;;inherit;;inherit>ለመላክ</font>    <font inherit/inherit;;inherit;;inherit>ዐቀደ፡፡ የመጀመሪያው የመሲሑ ተስፋ ወደ አዳምና ሔዋን መጣ፡፡</font>    እግዚአብሔር<font inherit/inherit;;inherit;;inherit>የእባቡን ራስ የሚቀጠቅጥ የሔዋን ዘር እንደሚወለድ ተስፋ ሰጠ፡፡ ሔዋንን ያታለለው እባብ ሰይጣን ነበር፡፡ ተስፋው መሲሑ ሰይጣንን ፍጹም ያሸንፈዋል ማለት ነው፡፡</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-02.jpg?direct&}}
 
@@ -38,7 +38,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-10.jpg?direct&}}
 
-ነቢዩ ኢሳይያስ መሲሑ በገሊላ ይኖራል፣ ልባቸው የተሰበረ ሰዎችን ያጽናናል፣ እንዲሁም ለተማረኩት ነጻነትንና ለታሰሩት መፈታትን ያውጃል፡፡ ደግሞም ነቢዩ መሲሑ የታመሙና መስማት፣ ማየት፣ መናገር፣ ወይም መራመድ የማይችሉ ሕዝብ እንደሚፈውስ ተነበየ፡፡
+ነቢዩ ኢሳይያስ መሲሑ በገሊላ ይኖራል፣ ልባቸው የተሰበረ ሰዎችን ያጽናናል፣ እንዲሁም ለተማረኩት ነጻነትንና ለታሰሩት መፈታትን ያውጃል፡፡ ደግሞም ነቢዩ መሲሑ የታመሙና መስማት፣ ማየት፣ መናገር፣ ወይም መራመድ የማይችሉትን ሕዝብ እንደሚፈውስ ተነበየ፡፡
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-21-11.jpg?direct&}}
 
