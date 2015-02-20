@@ -2,11 +2,11 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-01.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>ሙሴና</font>    <font inherit/inherit;;inherit;;inherit>አሮን</font>    ወደ ፈርዖን ሄዱ፡፡ ‹‹የእስራኤል አምላክ ‹ሕዝቤን<font inherit/inherit;;inherit;;inherit>ልቀቅ!››› ይላል</font>    አሉ፡፡ ፈርዖን አልሰማቸውም፡፡ እስራኤላውያን ነጻ<font inherit/inherit;;inherit;;inherit>ሆነው</font>    እንዲሄዱ በማድረግ<font inherit/inherit;;inherit;;inherit>ፈንታ</font>    ከዚህም የከበደ ሥራ እንዲሠሩ አስገደዳቸው<font inherit/inherit;;inherit;;inherit>!</font>
+<font inherit/inherit;;inherit;;inherit>ሙሴና</font>    <font inherit/inherit;;inherit;;inherit>አሮን</font>    ወደ ፈርዖን ሄዱ፡፡ ‹‹የእስራኤል አምላክ ‹ሕዝቤን<font inherit/inherit;;inherit;;inherit>ልቀቅ</font>    <font inherit/inherit;;inherit;;inherit>!››› ይላሃል</font>    አሉት፡፡ ፈርዖን አልሰማቸውም፡፡ እስራኤላውያን ነጻ <font inherit/inherit;;inherit;;inherit>ሆነው</font>    እንዲሄዱ በማድረግ<font inherit/inherit;;inherit;;inherit>ፈንታ</font>    ከዚህም የከበደ ሥራ እንዲሠሩ አስገደዳቸው<font inherit/inherit;;inherit;;inherit>!</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-02.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>ፈርዖን</font>    ሕዝቡን አልለቅም ማለቱን ቀጠለ፣ ስለዚህ እግዚአብሔር በግብፅ ላይ<font inherit/inherit;;inherit;;inherit>ዐሥር</font>    መቅሠፍቶችን ላከ፡፡ እግዚአብሔር በእነዚህ መቅሠፍቶች<font inherit/inherit;;inherit;;inherit>በኩል</font>    ከፈርዖንና ከግብፅ አማልክት ሁሉ<font inherit/inherit;;inherit;;inherit>ይልቅ ኃያል</font>    መሆኑን ለፈርዖን ዐሳየው፡፡
+<font inherit/inherit;;inherit;;inherit>ፈርዖን</font>    ሕዝቡን አልለቅም ማለቱን ቀጠለ፣ ስለዚህ እግዚአብሔር በግብፅ ላይ <font inherit/inherit;;inherit;;inherit>ዐሥር</font>    መቅሠፍቶችን ላከ፡፡ እግዚአብሔር በእነዚህ መቅሠፍቶች <font inherit/inherit;;inherit;;inherit>በኩል</font>    ከፈርዖንና ከግብፅ አማልክት ሁሉ <font inherit/inherit;;inherit;;inherit>ይልቅ ኃያል</font>    መሆኑን ለፈርዖን ዐሳየው፡፡
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-10-03.jpg?direct&}}
 
