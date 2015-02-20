@@ -1,21 +1,29 @@
+//Translation for the unfoldingWord mobile app interface//
+
 //በሞባይል ቴሌፎን ጥቅም ላይ የሚውል የተገለጠው ቃል ትርጉም //
 
-ቋንቋ ምረጥ: ቋንቋ ምረጥ
+Select a language: ቋንቋ ምረጥ
 
-ምዕራፎች: ምዕራፎች
+Chapters: ምዕራፎች
 
-ቋንቋዎች: ቋንቋዎች
+Languages: ቋንቋዎች
 
-የሚቀጥለው ምዕራፍ: <font 14px line-height: 19px;/inherit;;inherit;;inherit>የሚቀጥለው</font> <font 14px line-height: 19px;/inherit;;inherit;;inherit></font> <font 14px line-height: 19px;/inherit;;inherit;;inherit>ምዕራፍ</font>
+<font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;inherit>Next chapter</font> : <font 14px line-height: 19px/inherit;;inherit;;inherit>የሚቀጥለው</font>    <font 14px line-height: 19px/inherit;;inherit;;inherit>ምዕራፍ</font>
 
-ይሁን: <font 14px line-height: 19px;/inherit;;inherit;;inherit>ይሁን</font>
+<font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;inherit>OK</font> : <font 14px line-height: 19px/inherit;;inherit;;inherit>ይሁን</font>
 
-ይሰረዝ: <font 14px line-height: 19px;/inherit;;inherit;;inherit>ይሰረዝ</font>
+<font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;inherit>Cancel</font> : <font 14px line-height: 19px/inherit;;inherit;;inherit>ይሰረዝ</font>
 
-በአካባቢህ ይቀመጥ: <font 14px line-height: 19px;/inherit;;inherit;;inherit>በአካባቢህ</font> <font 14px line-height: 19px;/inherit;;inherit;;inherit></font> <font 14px line-height: 19px;/inherit;;inherit;;inherit>ይቀመጥ</font>
+<font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;inherit>Save locally</font> : <font 14px line-height: 19px/inherit;;inherit;;inherit>በአካባቢህ</font>    <font 14px line-height: 19px/inherit;;inherit;;inherit>ይቀመጥ</font>
 
-ይህን ስትሪንግ አስቀምጠው: ኢንተርኔት ሳይኖር ለመጠቀም ይህን ቋንቋ በአካባቢህ አስቀምጠው
+<font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;inherit>Save this string:</font> ይህን ስትሪንግ አስቀምጠው
 
-ከአካባቢህ አስወግደው: ከአካባቢህ<font 14px line-height: 19px;/inherit;;inherit;;inherit>አስወግደው</font>
+<font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;inherit>Save this language locally for offline use:</font> ኢንተርኔት ሳይኖር ለመጠቀም ይህን ቋንቋ በአካባቢህ አስቀምጠው
 
-ይህን ስትሪንግ አስወግድ: ኢንተርኔት ሳይኖር ከምትጠቀምበት ማስቀመጫ ይህን ቋንቋ አስወግደው። ለወደፊቱ ልትጠቀምበት ከፈለግህ የኢንተርኔት መስመር ሊኖርህ ይገባል።
+<font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;inherit>Remove locally</font> : ከአካባቢህ <font 14px line-height: 19px/inherit;;inherit;;inherit>አስወግደው</font>
+
+<font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;inherit>Remove this string:</font> ይህን ስትሪንግ አስወግድ
+
+<font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;inherit>Remove this language from offline storage. You will need an internet connection to view it in the future.</font>
+
+ኢንተርኔት ሳይኖር ከምትጠቀምበት ማስቀመጫ ይህን ቋንቋ አስወግደው። ለወደፊቱ ልትጠቀምበት ከፈለግህ የኢንተርኔት መስመር ሊኖርህ ይገባል።
