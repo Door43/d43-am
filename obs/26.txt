@@ -2,9 +2,9 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-01.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>ኢየሱስ</font>    የሰይጣንን<font inherit/inherit;;inherit;;inherit>ፈተና</font>    ካሸፈነ በኋላ፣ በመንፈስ<font inherit/inherit;;inherit;;inherit>ቅዱስ ኃይል</font>    ይኖርበት ወደ ነበረው ወደ<font inherit/inherit;;inherit;;inherit>ገሊላ</font>    አውራጃ ተመለሰ፡፡ ኢየሱስ<font inherit/inherit;;inherit;;inherit>ከቦታ</font>    ወደ ቦታ እየሄደ አስተማረ፡፡<font inherit/inherit;;inherit;;inherit>ሁሉም</font>    ሰው ስለ<font inherit/inherit;;inherit;;inherit>እርሱ</font>    መልካም ተናገረ፡፡
+<font inherit/inherit;;inherit;;inherit>ኢየሱስ</font>    የሰይጣንን <font inherit/inherit;;inherit;;inherit>ፈተና</font>    ካሸፈነ በኋላ፣ በመንፈስ <font inherit/inherit;;inherit;;inherit>ቅዱስ ኃይል</font>    ይኖርበት ወደ ነበረው ወደ<font inherit/inherit;;inherit;;inherit>ገሊላ</font>    አውራጃ ተመለሰ፡፡ ኢየሱስ <font inherit/inherit;;inherit;;inherit>ከቦታ</font>    ወደ ቦታ እየሄደ አስተማረ፡፡<font inherit/inherit;;inherit;;inherit>ሁሉም</font>    ሰው ስለ <font inherit/inherit;;inherit;;inherit>እርሱ</font>    መልካም ይናገሩ ነበር፡፡
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-02.jpg?direct&}}<font inherit/inherit;;inherit;;inherit>ኢየሱስ</font>    በልጅነቱ ወደ ኖረበት ወደ ናዝሬት<font inherit/inherit;;inherit;;inherit>ከተማ</font>    ተመለሰ፡፡ በሰንበት ወደ አምልኮ ቦታ ሄደ፡፡<font inherit/inherit;;inherit;;inherit>ያነብ ዘንድ</font>    የነቢዩን የኢሳይያስን ጥቅልል<font inherit/inherit;;inherit;;inherit>ጽሑፍ</font>    ሰጡት፡፡ ኢየሱስ ጥቅልል ጽሑፉን ከፈተና በከፊል ለሕዝቡ አነበበላቸው፡፡
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-02.jpg?direct&}}<font inherit/inherit;;inherit;;inherit>ኢየሱስ</font>    በልጅነቱ ወደ ኖረበት ወደ ናዝሬት<font inherit/inherit;;inherit;;inherit>ከተማ</font>    ተመለሰ፡፡ በሰንበት ወደ አምልኮ ቦታ ሄደ፡፡<font inherit/inherit;;inherit;;inherit>ያነብ</font>    <font inherit/inherit;;inherit;;inherit>ዘንድ</font>    የነቢዩን የኢሳይያስን ጥቅልል<font inherit/inherit;;inherit;;inherit>ጽሑፍ</font>    ሰጡት፡፡ ኢየሱስ ጥቅልል ጽሑፉን ከፍቶ በከፊል ለሕዝቡ አነበበላቸው፡፡
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-03.jpg?direct&}}
 
@@ -12,9 +12,9 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-04.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>ከዚያም</font>    ኢየሱስ ተቀመጠ፡፡ ሁላቸውም በቅርበት ተመለከቱት፡፡ ልክ<font inherit/inherit;;inherit;;inherit>አሁን</font>    ያነበበው የእግዚአብሔር ቃል ምንባብ መሲሑን ያመለክት ነበር፡፡ ኢየሱስ፣<font inherit/inherit;;inherit;;inherit>‹‹አሁን</font>    ያነበብኩላችሁ ቃል ልክ<font inherit/inherit;;inherit;;inherit>አሁን</font>    እየተፈጸመ ነው›› አለ፡፡<font inherit/inherit;;inherit;;inherit>ሕዝቡ</font>    ሁሉ ተደነቁ፡፡ ‹‹ይህ የዮሴፍ ልጅ አይደለምን<font inherit/inherit;;inherit;;inherit>?››</font>    አሉ፡፡
+<font inherit/inherit;;inherit;;inherit>ከዚያም</font>    ኢየሱስ ተቀመጠ፡፡ ሁላቸውም በቅርበት ተመለከቱት፡፡ ልክ <font inherit/inherit;;inherit;;inherit>አሁን</font>    ያነበበው የእግዚአብሔር ቃል ምንባብ መሲሑን ያመለክት ነበር፡፡ ኢየሱስ፣<font inherit/inherit;;inherit;;inherit>‹‹ይህ</font>    ያነበብኩላችሁ ቃል ልክ<font inherit/inherit;;inherit;;inherit>አሁን</font>    እየተፈጸመ ነው›› አለ፡፡<font inherit/inherit;;inherit;;inherit>ሕዝቡ</font>    ሁሉ ተደነቁ፡፡ ‹‹ይህ የዮሴፍ ልጅ አይደለምን<font inherit/inherit;;inherit;;inherit>?››</font>    አሉ፡፡
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-05.jpg?direct&}}<font inherit/inherit;;inherit;;inherit>ከዚያም</font>    ኢየሱስ፣<font inherit/inherit;;inherit;;inherit>‹‹ነቢይ</font>    <font inherit/inherit;;inherit;;inherit>በገዛ አገሩ</font>    እንደማይከበር እውነት<font inherit/inherit;;inherit;;inherit>ነው፣</font>    በነቢዩ ኤልያስ ዘመን፣ በእስራኤል ብዙ መበለቶች ነበሩ፡፡<font inherit/inherit;;inherit;;inherit>ነገር</font>    ግን ለሦስት<font inherit/inherit;;inherit;;inherit>ዓመት</font>    <font inherit/inherit;;inherit;;inherit>ተኩል ዝናብ</font>    ባልዘነበ ጊዜ እግዚአብሔር ኤልያስን በተለየ<font inherit/inherit;;inherit;;inherit>አገር</font>    <font inherit/inherit;;inherit;;inherit>እንጂ</font>    በእስራኤል<font inherit/inherit;;inherit;;inherit>ያለች</font>    መበለት እንዲረዳ አልላከውም፡፡››
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-05.jpg?direct&}}<font inherit/inherit;;inherit;;inherit>ከዚያም</font>    ኢየሱስ፣<font inherit/inherit;;inherit;;inherit>‹‹ነቢይ</font>    <font inherit/inherit;;inherit;;inherit>በገዛ አገሩ</font>    እንደማይከበር እውነት<font inherit/inherit;;inherit;;inherit>ነው፣</font>    በነቢዩ ኤልያስ ዘመን፣ በእስራኤል ብዙ መበለቶች ነበሩ፡፡<font inherit/inherit;;inherit;;inherit>ነገር</font>    ግን ለሦስት<font inherit/inherit;;inherit;;inherit>ዓመት</font>    <font inherit/inherit;;inherit;;inherit>ተኩል ዝናብ</font>    ባልዘነበ ጊዜ እግዚአብሔር ኤልያስን በተለየ<font inherit/inherit;;inherit;;inherit>አገር</font>    <font inherit/inherit;;inherit;;inherit>እንጂ</font>    በእስራኤል<font inherit/inherit;;inherit;;inherit>ያለች</font>    መበለትን እንዲረዳ አልላከውም፡፡››
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-06.jpg?direct&}}
 
@@ -34,6 +34,6 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-26-10.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>ከዚያም</font>    ኢየሱስ<font inherit/inherit;;inherit;;inherit>ደቀ መዛሙርቱ ተብለው የተጠሩትን ዐሥራ ሁለት ሰዎች መረጠ፡፡ ሐዋርያቱ ከኢየሱስ ጋር ተጓዙና ከእርሱ ተማሩ፡፡</font>
+<font inherit/inherit;;inherit;;inherit>ከዚያም</font>    ኢየሱስ<font inherit/inherit;;inherit;;inherit>ደቀ</font>    <font inherit/inherit;;inherit;;inherit>መዛሙርቱ ተብለው የተጠሩትን ዐሥራ ሁለት ሰዎች መረጠ፡፡ ሐዋርያቱ ከኢየሱስ ጋር ተጓዙና ከእርሱ ተማሩ፡፡</font>
 
 **//የመጽሐፍ ቅዱስ ታሪክ፡- ከማቴዎስ 4፡12-25፤ ማርቆስ 1፡14-15፣ 35-39፤ 3፡13-21፤ ሉቃስ 4፡14-30፣ 38-44፡፡// **
