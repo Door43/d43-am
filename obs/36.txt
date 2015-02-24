@@ -2,7 +2,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-01.jpg?direct&}}
 
-አንድ ቀን ኢየሱስ ሦስቱን ደቀ መዛሙርቱን ጴጥሮስን፣ ያዕቆብንና ዮሐንስን ያዞ ሊጸልዩ<font inherit/inherit;;inherit;;inherit></font> ወደ<font inherit/inherit;;inherit;;inherit></font> <font inherit/inherit;;inherit;;inherit>ረጅም ተራራ</font> <font inherit/inherit;;inherit;;inherit></font> ወጡ። <font inherit/inherit;;inherit;;inherit>(</font> ዮሐንስ<font inherit/inherit;;inherit;;inherit></font> የተባለው<font inherit/inherit;;inherit;;inherit></font> ደቀ<font inherit/inherit;;inherit;;inherit></font> መዝሙር<font inherit/inherit;;inherit;;inherit></font> ኢየሱስን<font inherit/inherit;;inherit;;inherit></font> ያጠመቀው<font inherit/inherit;;inherit;;inherit></font> ሰው<font inherit/inherit;;inherit;;inherit></font> አልነበረም፡፡<font inherit/inherit;;inherit;;inherit>)</font>
+አንድ ቀን ኢየሱስ ሦስቱን ደቀ መዛሙርቱን ጴጥሮስን፣ ያዕቆብንና ዮሐንስን ያዞ ሊጸልዩ ወደ <font inherit/inherit;;inherit;;inherit>ረጅም ተራራ</font>    ወጡ። <font inherit/inherit;;inherit;;inherit>(</font>    ዮሐንስ የተባለው ደቀ መዝሙር ኢየሱስን ያጠመቀው ሰው አልነበረም፡፡<font inherit/inherit;;inherit;;inherit>)</font>
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-02.jpg?direct&}}
 
@@ -28,4 +28,4 @@
 
 ኢየሱስና ሦስቱ ደቀ መዛሙርት ከተራራው ወረዱ፡፡ በዚያን ጊዜ ኢየሱስ እንዲህ አላቸው፣ ‹‹በዚህ ስለ ሆነው ነገር ገና ለማንም አትናገሩ፡፡ እኔ በቶሎ እሞታለሁ፣ ሕያውም እሆናለሁ፡፡ ከዚያ በኋላ ለሰዎች መናገር ትችላላችሁ፡፡››
 
-**የመጽሐፍ ቅዱስ ታሪክ፡- ከማቴዎስ 17፡1-9፤ ማርቆስ 9፡2-8፤ ሉቃስ 9፡28-36፡፡**
+//**የመጽሐፍ ቅዱስ ታሪክ፡- ከማቴዎስ 17፡1-9፤ ማርቆስ 9፡2-8፤ ሉቃስ 9፡28-36፡፡** //
