@@ -1,6 +1,6 @@
 
 
-  - [[:am:obs:01|ፍጥረት]]
+  - ፍጥረት
   - ኃጢአት ወደ ዓለም ገባ
   - የጥፋት ውሃ
   - የእግዚአብሔር ቃል ኪዳን ከአብርሃም ጋር
@@ -19,41 +19,39 @@
   - እግዚአብሔር ከዳዊት ጋር ያደረገው ቃል ኪዳን
   - የተከፈለው መንግሥት
   - ነቢያቱ
-  - [[:am:obs:20|The Exile and Return]]
-  - [[:am:obs:21|God Promises the Messiah]]
-  - [[:am:obs:22|The Birth of John]]
-  - [[:am:obs:23|The Birth of Jesus]]
-  - [[:am:obs:24|John Baptizes Jesus]]
-  - [[:am:obs:25|Satan Tempts Jesus]]
-  - [[:am:obs:26|Jesus Starts His Ministry]]
-  - [[:am:obs:27|The Story of the Good Samaritan]]
-  - [[:am:obs:28|The Rich Young Ruler]]
-  - [[:am:obs:29|The Story of the Unmerciful Servant]]
-  - [[:am:obs:30|Jesus Feeds Five Thousand People]]
-  - [[:am:obs:31|Jesus Walks on Water]]
-  - [[:am:obs:32|Jesus Heals a Demon Possessed Man]]
-  - [[:am:obs:33|The Story of the Farmer]]
-  - [[:am:obs:34|Jesus Teaches Other Stories]]
-  - [[:am:obs:35|The Story of the Compassionate Father]]
-  - [[:am:obs:36|The Transfiguration]]
-  - [[:am:obs:37|Jesus Raises Lazarus from the Dead]]
-  - [[:am:obs:38|Jesus Is Betrayed]]
-  - [[:am:obs:39|Jesus Is Put on Trial]]
-  - [[:am:obs:40|Jesus Is Crucified]]
-  - [[:am:obs:41|God Raises Jesus from the Dead]]
-  - [[:am:obs:42|Jesus Returns to Heaven]]
-  - [[:am:obs:43|The Church Begins]]
-  - [[:am:obs:44|Peter and John Heal a Beggar]]
-  - [[:am:obs:45|Philip and the Ethiopian Official]]
-  - [[:am:obs:46|Paul Becomes a Christian]]
-  - [[:am:obs:47|Paul and Silas in Philippi]]
-  - [[:am:obs:48|Jesus is the Promised Messiah]]
-  - [[:am:obs:49|God's New Covenant]]
-  - [[:am:obs:50|Jesus Returns]]
+  - ምርኮና ከምርኮ መመለስ
+  - እግዚአብሔር መሲሑን ተስፋ ሰጠ
+  - የዮሐንስ መወለድ
+  - የኢየሱስ ልደት
+  - ዮሐንስ ኢየሱስን አጠመቀ
+  - ሰይጣን ኢየሱስን ፈተነው
+  - ኢየሱስ አገልግሎቱን ጀመረ
+  - የደጉ ሳምራዊ ታሪክ
+  - ባለ ጠጋው ወጣት
+  - የምሕረት የለሹ ባሪያ ታሪክ
+  - ኢየሱስ አምስት ሺህ ሰዎችን መገበ
+  - ኢየሱስ በውሃ ላይ ተራመደ
+  - ኢየሱስ ርኵስ መንፈስ የያዘውን ሰውና የታመመችውን ሴት ፈወሰ
+  - የአርሶ አደሩ ታሪክ
+  - ኢየሱስ ሌሎች ታሪኮችን አስተማረ
+  - የርኅሩኁ አባት ታሪክ
+  - የኢየሱስ መልክ ተለወጠ
+  - ኢየሱስ አልዓዛርን ከሞት አስነሣ
+  - ኢየሱስ ተላልፎ ተሰጠ
+  - ኢየሱስ ለፍርድ ቀረበ
+  - ኢየሱስ ተሰቀለ
+  - እግዚአብሔር ኢየሱስን ከሙታን አስነሣው
+  - ኢየሱስ ወደ ሰማይ ተመለሰ
+  - ቤተ ክርስቲያን ተጀመረች
+  - ጴጥሮስና ዮሐንስ ይለምን የነበረውን ሰው ፈወሱ
+  - ፊልጶስና ኢትዮጵያዊው ባለ ሥልጣን
+  - ጳውሎስ ክርስቲያን ሆነ
+  - ጳውሎስና ሲላስ በፊልጵስዩስ
+  - ኢየሱስ ተስፋ የተሰጠው መሲሕ ነው
+  - ዐዲሱ የእግዚአብሔር ቃል ኪዳን
+  - ኢየሱስ ይመለሳል
 
-  *
   * [[:am:obs:front-matter|Front Matter]]
   * [[:am:obs:back-matter|Back Matter]]
   * [[:am:obs:app_words|Mobile App Words]]
-  *
 
