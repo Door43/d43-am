@@ -1,28 +1,30 @@
 
-----
-~~NOCACHE~~
-**Door43**
 
-  * [[am:home|Door43 (am)]]
+----
+
+~~NOCACHE~~ **Door43**
+
+   * [[:am:home|Door43 (am)]]
 
 **Resources**
 
-  * [[am:obs|Open Bible Stories (am)]]
-
+  * [[:am:obs|Open Bible Stories (am)]]
 
 **Downloads**
 
-All content for this namespace is available in the [[https://github.com/Door43/d43-am|d43-am repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-am/archive/master.zip|d43-am.zip]]
+All content for this namespace is available in the [[https://github.com/Door43/d43-am|d43-am repository]]. To download it as a zip file, click [[https://github.com/Door43/d43-am/archive/master.zip|d43-am.zip]]
 
 **Recent Changes**
+
 {{changes>ns = am}}
 
 **Open Bible Stories**
+
 {{page>:am:obs:stories}}
 
 **Latest Status**
-{{page>en:uwadmin:am:obs:status}}
 
+{{page>en:uwadmin:am:obs:status}}
 
 **Language Information**
 
@@ -30,7 +32,9 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 **Resources**
 
-  * [[am:obs|Open Bible Stories (am)]]
+  * [[:am:obs|Open Bible Stories (am)]]
 
 **Latest OBS Status**
+
 {{page>en:uwadmin:am:obs:status}}
+
