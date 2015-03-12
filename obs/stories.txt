@@ -51,7 +51,7 @@
   - [[am:obs:49|ዐዲሱ የእግዚአብሔር ቃል ኪዳን]]
   - [[am:obs:50|ኢየሱስ ይመለሳል]]
 
-  * [[:am:obs:front-matter|Front Matter]]
-  * [[:am:obs:back-matter|Back Matter]]
-  * [[:am:obs:app_words|Mobile App Words]]
+  * [[:am:obs:front-matter|የተገለጠ ቃል/ግልጽ የመጽሐፍ ቅዱስ ታሪኮች ]]
+  * [[:am:obs:back-matter|ተሳተፍ!]]
+  * [[:am:obs:app_words|በሞባይል ቴሌፎን ጥቅም ላይ የሚውል የተገለጠው ቃል ትርጉም ]]
 
