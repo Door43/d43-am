@@ -2,10 +2,7 @@
 
 ----
 
-~~NOCACHE~~ **Door43**
-
-   * [[:am:home|Door43 (am)]]
-
+~~NOCACHE~~ 
 **Resources**
 
   * [[:am:obs|Open Bible Stories (am)]]
@@ -22,19 +19,10 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 {{page>:am:obs:stories}}
 
-**Latest Status**
-
-{{page>en:uwadmin:am:obs:status}}
-
 **Language Information**
 
 [[http://www.ethnologue.com/language/am|Ethnologue data]]
 
-**Resources**
-
-  * [[:am:obs|Open Bible Stories (am)]]
-
 **Latest OBS Status**
 
 {{page>en:uwadmin:am:obs:status}}
-
