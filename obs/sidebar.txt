@@ -17,6 +17,9 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 **Recent Changes**
 {{changes>ns = am}}
 
+**Open Bible Stories**
+{{page>:am:obs:stories}}
+
 **Latest Status**
 {{page>en:uwadmin:am:obs:status}}
 
