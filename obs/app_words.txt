@@ -8,13 +8,13 @@ Chapters: ምዕራፎች
 
 Languages: ቋንቋዎች
 
-Next chapter : የሚቀጥለው    ምዕራፍ
+Next chapter : የሚቀጥለው ምዕራፍ
 
 OK : ይሁን
 
 Cancel : ይሰረዝ
 
-Save locally : በአካባቢህ    ይቀመጥ
+Save locally : በአካባቢህ ይቀመጥ
 
 Save this string: ይህን ስትሪንግ አስቀምጠው
 
