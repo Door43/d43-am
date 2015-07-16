@@ -5,7 +5,7 @@
 ~~NOCACHE~~ 
 **Resources**
 
- * [[:am:obs|Open Bible Stories (am)]]
+  * [[:am:obs|Open Bible Stories (am)]]
 
 **Downloads**
 
