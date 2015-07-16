@@ -2,46 +2,46 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-01.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>አንድ</font>    ቀን <font inherit/inherit;;inherit;;inherit>አንድ</font>    የአይሁድ ሕግ <font inherit/inherit;;inherit;;inherit>ዐዋቂ</font>    ሊፈትነው ወደ ኢየሱስ <font inherit/inherit;;inherit;;inherit>መጣ፣</font>    ‹‹መምህር <font inherit/inherit;;inherit;;inherit>ሆይ፣</font>    የዘላለምን ሕይወት እንድወርስ ምን ላድርግ<font inherit/inherit;;inherit;;inherit>?››</font>    አለው፡፡ ኢየሱስ፣ ‹‹በእግዚአብሔር ሕግ የተጻፈው ምንድን ነው<font inherit/inherit;;inherit;;inherit>?››</font>    ብሎ መለሰለት፡፡
+አንድ ቀን አንድ የአይሁድ ሕግ ዐዋቂ ሊፈትነው ወደ ኢየሱስ መጣ፣ “መምህር ሆይ፣ የዘላለምን ሕይወት እንድወርስ ምን ላድርግ?“ አለው። ኢየሱስ፣ “በእግዚአብሔር ሕግ የተጻፈው ምንድን ነው?“ ብሎ መለሰለት።
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-02.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>ሕግ</font>    ዐዋቂው የእግዚአብሔር<font inherit/inherit;;inherit;;inherit>ሕግ፣</font>    ‹‹ጌታ አምላክህን በፍጹም <font inherit/inherit;;inherit;;inherit>ልብህ</font>    በፍጹም ነፍስህም በፍጹም ኃይልህም በፍጹም ዐሳብህም ውደድ፡፡ ባልንጀራህንም <font inherit/inherit;;inherit;;inherit>እንደ ራስህ ውደድ›› ይላል</font>    ብሎ መለሰ፡፡ ኢየሱስ፣ ‹‹ትክክል ነህ<font inherit/inherit;;inherit;;inherit>! ይህን</font>    አድርግ በሕይወትም ትኖራለህ›› አለው፡፡
+ሕግ ዐዋቂው የእግዚአብሔርሕግ፣ “ጌታ አምላክህን በፍጹም ልብህ በፍጹም ነፍስህም በፍጹም ኃይልህም በፍጹም ዐሳብህም ውደድ። ባልንጀራህንም እንደ ራስህ ውደድ“ ይላል ብሎ መለሰ። ኢየሱስ፣ “ትክክል ነህ! ይህን አድርግ በሕይወትም ትኖራለህ“ አለው።
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-03.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>ነገር</font>    ግን ሕግ ዐዋቂው <font inherit/inherit;;inherit;;inherit>ጻድቅ</font>    መሆኑን ለማረጋገጥ ፈለገ፣ ስለዚህ፣ ‹‹ባልንጀራዬ ማን ነው<font inherit/inherit;;inherit;;inherit>?››</font>    ብሎ ጠየቀ፡፡
+ነገር ግን ሕግ ዐዋቂው ጻድቅ መሆኑን ለማረጋገጥ ፈለገ፣ ስለዚህ፣ “ባልንጀራዬ ማን ነው?“ ብሎ ጠየቀ።
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-04.jpg?direct&}}
 
-ኢየሱስ ታሪክ በመናገር ለሕግ ዐዋቂው መለሰለት፡፡ ‹‹ከኢየሩሳሌም ወደ ኢያሪኮ ይጓዝ የነበረ አንድ አይሁዳዊ ነበረ፡፡››
+ኢየሱስ ታሪክ በመናገር ለሕግ ዐዋቂው መለሰለት። “ከኢየሩሳሌም ወደ ኢያሪኮ ይጓዝ የነበረ አንድ አይሁዳዊ ነበረ።“
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-05.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>‹‹ሰውዬው በመጓዝ ላይ እያለ ወንበዴዎች ያዙት፡፡ የነበረውን ነገር ሁሉ ወሰዱበትና እስኪሞት ድረስ ደበደቡት፡፡ ከዚያም ሄዱ፡፡››</font>
+“ሰውዬው በመጓዝ ላይ እያለ ወንበዴዎች ያዙት። የነበረውን ነገር ሁሉ ወሰዱበትና እስኪሞት ድረስ ደበደቡት። ከዚያም ሄዱ።“
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-06.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>ከዚያ በኋላ ወዲያውኑ አንድ አይሁዳዊ ካህን በዚያ መንገድ ይጓዝ ነበር፡፡ ይህ የሃይማኖት መሪ የተዘረፈውንና የተደበደበውን ሰው ባየ ጊዜ ወደ መንገዱ ሌላኛ ጎን ሄደ፣ ርዳታ የፈለገውን ሰው ቸል አለውና ጕዞውን ቀጠለ፡፡››</font>
+ከዚያ በኋላ ወዲያውኑ አንድ አይሁዳዊ ካህን በዚያ መንገድ ይጓዝ ነበር። ይህ የሃይማኖት መሪ የተዘረፈውንና የተደበደበውን ሰው ባየ ጊዜ ወደ መንገዱ ሌላኛ ጎን ሄደ፣ ርዳታ የፈለገውን ሰው ቸል አለውና ጕዞውን ቀጠለ።“
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-07.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>ከዚያ በኋላ ብዙም</font>    ሳይቆይ፣<font inherit/inherit;;inherit;;inherit>አንድ</font>    <font inherit/inherit;;inherit;;inherit>ሌዋዊ</font>    መጣ፡፡<font inherit/inherit;;inherit;;inherit>(</font>    ሌዋውያን <font inherit/inherit;;inherit;;inherit>በቤተ</font>    መቅደስ ካህናቱን የሚረዱ የአይሁድ <font inherit/inherit;;inherit;;inherit>ነገድ</font>    ነበሩ፡፡<font inherit/inherit;;inherit;;inherit>)</font>    ሌዋዊውም <font inherit/inherit;;inherit;;inherit>ደግሞ</font>    ወደ መንገዱ <font inherit/inherit;;inherit;;inherit>ሌላኛ</font>    ጎን ተሻገረና የተዘረፈውንና የተደበደበውን ሰው በቸልታ አለፈው፡፡››
+ከዚያ በኋላ ብዙም ሳይቆይ፣አንድ ሌዋዊ መጣ።( ሌዋውያን በቤተ መቅደስ ካህናቱን የሚረዱ የአይሁድ ነገድ ነበሩ።) ሌዋዊውም ደግሞ ወደ መንገዱ ሌላኛ ጎን ተሻገረና የተዘረፈውንና የተደበደበውን ሰው በቸልታ አለፈው።“
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-08.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>በዚያ</font>    መንገድ <font inherit/inherit;;inherit;;inherit>የወረደው</font>    <font inherit/inherit;;inherit;;inherit>የሚቀጥለው</font>    ሰው ሳምራዊ ነበር፡፡<font inherit/inherit;;inherit;;inherit>(ሳምራውያን የሌሎች አገሮች ሰዎችን ያገቡ</font>    የአይሁድ <font inherit/inherit;;inherit;;inherit>ዝርያዎች</font>    ነበሩ፡፡<font inherit/inherit;;inherit;;inherit>ሳምራውያንና</font>    <font inherit/inherit;;inherit;;inherit>አይሁዳውያን እርስ በርስ ይጠላሉ</font>    ነበር፡፡<font inherit/inherit;;inherit;;inherit>) ነገር</font>    ግን <font inherit/inherit;;inherit;;inherit>ሳምራዊው</font>    <font inherit/inherit;;inherit;;inherit>አይሁዳዊውን</font>    ባየ ጊዜ <font inherit/inherit;;inherit;;inherit>በጣም</font>    <font inherit/inherit;;inherit;;inherit>አድርጎ ራራለት፡፡ ስለዚህ ተንከባከበውና ቊስሉን አሰረለት፡፡››</font>
+በዚያ መንገድ የወረደው የሚቀጥለው ሰው ሳምራዊ ነበር።(ሳምራውያን የሌሎች አገሮች ሰዎችን ያገቡ የአይሁድ ዝርያዎች ነበሩ።ሳምራውያንና አይሁዳውያን እርስ በርስ ይጠላሉ ነበር።) ነገር ግን ሳምራዊው አይሁዳዊውን ባየ ጊዜ በጣም አድርጎ ራራለት። ስለዚህ ተንከባከበውና ቊስሉን አሰረለት።“
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-09.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>‹‹ከዚያ በኋላ ሳምራዊው ሰውዬውን አንሥቶ በራሱ አህያ ላይ አስቀምጦት ወደ እንግዶች ማደሪያ ወሰደው ተንከባከበውም፡፡››</font>
+“ከዚያ በኋላ ሳምራዊው ሰውዬውን አንሥቶ በራሱ አህያ ላይ አስቀምጦት ወደ እንግዶች ማደሪያ ወሰደው ተንከባከበውም።“
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-10.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>‹‹በማግሥቱም ሳምራዊው ጕዞውን መቀጠል አስፈለገው፡፡ ለእንግዶች ማረፊያው ባለቤት ጥቂት ገንዘብ ሰጠውና፣ ‹‹ተንከባከበው፣ ከዚህ ሌላ ገንዘብ የምታወጣ ከሆነ በምመለስበት ጊዜ እከፍልሃለሁ አለው፡፡››</font>
+“በማግሥቱም ሳምራዊው ጕዞውን መቀጠል አስፈለገው። ለእንግዶች ማረፊያው ባለቤት ጥቂት ገንዘብ ሰጠውና፣ “ተንከባከበው፣ ከዚህ ሌላ ገንዘብ የምታወጣ ከሆነ በምመለስበት ጊዜ እከፍልሃለሁ አለው።“
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-27-11.jpg?direct&}}
 
-<font inherit/inherit;;inherit;;inherit>ከዚያ በኋላ ኢየሱስ ሕግ ዐዋቂውን፣ ‹‹ምን ታስባለህ? ለተዘረፈውና ለተደበደበው ሰው ባልንጀራው ከሦስቱ ሰዎች የትኛው ነበር?›› ብሎ ጠየቀው፡፡ እርሱም፣ ‹‹ምሕረት ያደረገለት ነበር››</font>    ብሎ <font inherit/inherit;;inherit;;inherit>መለሰለት፡፡ ኢየሱስ፣ ‹‹አንተም ሄደህ እንደዚሁ አድርግ›› ብሎ ነገረው፡፡</font>
+ከዚያ በኋላ ኢየሱስ ሕግ ዐዋቂውን፣ “ምን ታስባለህ? ለተዘረፈውና ለተደበደበው ሰው ባልንጀራው ከሦስቱ ሰዎች የትኛው ነበር?“ ብሎ ጠየቀው። እርሱም፣ “ምሕረት ያደረገለት ነበር“ ብሎ መለሰለት። ኢየሱስ፣ “አንተም ሄደህ እንደዚሁ አድርግ“ ብሎ ነገረው።
 
-**//የመጽሐፍ ቅዱስ ታሪክ፡- ከሉቃስ 10፡25-37፡፡// **
+**//የመጽሐፍ ቅዱስ ታሪክ፡- ከሉቃስ 10፡25-37።// **
