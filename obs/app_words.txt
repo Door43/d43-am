@@ -8,18 +8,18 @@ Chapters: ምዕራፎች
 
 Languages: ቋንቋዎች
 
-<font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;inherit>Next chapter</font> : <font 14px line-height: 19px/inherit;;inherit;;inherit>የሚቀጥለው</font>    <font 14px line-height: 19px/inherit;;inherit;;inherit>ምዕራፍ</font>
+Next chapter : የሚቀጥለው    ምዕራፍ
 
-<font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;inherit>OK</font> : <font 14px line-height: 19px/inherit;;inherit;;inherit>ይሁን</font>
+OK : ይሁን
 
-<font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;inherit>Cancel</font> : <font 14px line-height: 19px/inherit;;inherit;;inherit>ይሰረዝ</font>
+Cancel : ይሰረዝ
 
-<font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;inherit>Save locally</font> : <font 14px line-height: 19px/inherit;;inherit;;inherit>በአካባቢህ</font>    <font 14px line-height: 19px/inherit;;inherit;;inherit>ይቀመጥ</font>
+Save locally : በአካባቢህ    ይቀመጥ
 
-<font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;inherit>Save this string:</font> ይህን ስትሪንግ አስቀምጠው
+Save this string: ይህን ስትሪንግ አስቀምጠው
 
-<font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;inherit>Save this language locally for offline use:</font> ኢንተርኔት ሳይኖር ለመጠቀም ይህን ቋንቋ በአካባቢህ አስቀምጠው
+Save this language locally for offline use: ኢንተርኔት ሳይኖር ለመጠቀም ይህን ቋንቋ በአካባቢህ አስቀምጠው
 
-<font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;inherit>Remove locally</font> : ከአካባቢህ <font 14px line-height: 19px/inherit;;inherit;;inherit>አስወግደው</font>
+Remove locally : ከአካባቢህ አስወግደው
 
 Remove this string: ኢንተርኔት ሳይኖር ከምትጠቀምበት ማስቀመጫ ይህን ቋንቋ አስወግደው። ለወደፊቱ ልትጠቀምበት ከፈለግህ የኢንተርኔት መስመር ሊኖርህ ይገባል።
