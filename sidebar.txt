@@ -1,30 +1,65 @@
-
 ----
 
-~~NOCACHE~~ **Door43**
 
-   * [[:am:home|Door43 (am)]]
+**Door43**
+
+  * [[am:home|Door43 (Amharic)]]
+
+**Help**
+
+  * [[:am:ta|translationAcademy]]
+  * [[:am:get-started|How to Get Started]]
+  * [[:am:obs:help|Open Bible Stories Help]]
 
 **Resources**
 
-  * [[:am:obs|Open Bible Stories (am)]]
+  *  [[:am:obs|Open Bible Stories]]
+      * [[:am:obs:notes|translationNotes]]
+      * [[:am:obs:notes:questions:home|translationQuestions]]
+      * [[:am:obe:home|translationWords]]
+  *  [[:en:bible:intro|Bible (English)]]
+      * [[:en:ulb:ep:home|(English) Unlocked Literal Bible]]
+      * [[:en:udb:ep:home|(English) Unlocked Dynamic Bible]]
+      * [[:en:bible:notes:home|(English) translationNotes]]
+      * [[:en:bible:questions:comprehension:home|(English) translationQuestions]]
+      * [[:en:obe:home|(English) translationWords]]
+  * [[:en:lexicon|Open Bible Lexicon (English)]]
+  *  [[:en:library|Open Christian Library]]
+      * [[:en:pet|Plain English Translation]]
+      * [[:en:library:t4t:home|Translation for Translators]]
+  *  [[:am:bible:intro|Bible (Amharic)]]
+      * [[:am:ulb:ep:home|Unlocked Literal Bible]]
+      * [[:am:udb:ep:home|Unlocked Dynamic Bible]]
+      * [[:am:bible:notes:home|translationNotes]]
+      * [[:am:bible:questions:comprehension:home|translationQuestions]]
+      * [[:am:obe:home|translationWords]]
+  * [[:am:ta|translationAcademy ]]
+      * [[:am:ta:vol1:intro:toc_intro|Introduction]]
+      * [[:am:ta:vol1:translate:toc_transvol1_2|Translation Manual]]
+      * [[:am:ta:vol1:checking:toc_checkvol1_2|Checking Manual]]
+      * [[:am:ta:vol1:tech:toc_techvol1_2|Technology Manual]]
+      * [[:am:ta:vol1:process:toc_processvol1_2|Process Manual]]
+
+
+**About Door43**
+
+  * [[:am:ta:vol1:intro:statement_of_faith|Statement of Faith]]
+  * [[:am:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+  * [[:am:ta:vol1:intro:open_license|Copyrights & Licensing]]
+
+**Door43 Development**
+
+  * [[:en:dev|Development Projects]]
+
+~~NOCACHE~~
 
 **Downloads**
 
-All content for this namespace is available in the [[https://github.com/Door43/d43-am|d43-am repository]]. To download it as a zip file, click [[https://github.com/Door43/d43-am/archive/master.zip|d43-am.zip]]
-
-**Open Bible Stories**
-
-{{page>am:obs:stories}}
+All content for this namespace is available in the [[https://github.com/Door43/d43-am-Deva|d43-am-Deva repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-am-Deva/archive/master.zip|d43-am-Deva.zip]]
 
 **Recent Changes**
-
-{{changes>ns = am}}
+{{changes>ns = am-Deva}}
 
 **Language Information**
 
-[[http://www.ethnologue.com/language/am|Ethnologue data]]
-
-**Resources**
-
-  * [[:am:obs|Open Bible Stories (am)]]
+[[http://www.ethnologue.com/language/am-Deva|Ethnologue data]]
