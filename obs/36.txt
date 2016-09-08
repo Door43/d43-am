@@ -22,7 +22,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-06.jpg?direct&}}
 
-በዚያን ጊዜ ኢየሱስ ዳሰሳቸውና፣ ‹‹አትፍሩ፣ ተነሡ›› አላቸው፡፡ ዙሪያቸውን ሲያዩ ከእርሱ ጋር ያለው ኢየሱስ ብቻ ነበር፡፡
+በዚያን ጊዜ ኢየሱስ ዳሰሳቸውና፣ ‹‹አትፍሩ፣ ተነሡ›› አላቸው፡፡ ዙሪያቸውን ሲያዩ ከእነርሱ ጋር ያለው ኢየሱስ ብቻ ነበር፡፡
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-36-07.jpg?direct&}}
 
